@@ -78,29 +78,9 @@ main {
 
   }
 
-  .icon {
-    text-transform: uppercase;
-    display: flex;
-    align-items: center;
-    font-size: 12px;
-    color: white;
-    gap: 10px;
-    height: 40px;
 
-  }
 
-  a {
-    height: 40px;
-    text-decoration: none;
-  }
 
-  a:hover {
-    transform: scale(1.5);
-  }
-
-  img {
-    width: 40px;
-  }
 
   #digital {
     width: 32px;

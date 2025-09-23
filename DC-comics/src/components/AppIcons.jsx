@@ -3,6 +3,7 @@ import ComicsMerch from '../assets/img/buy-comics-merchandise.png';
 import ShopLocator from '../assets/img/buy-comics-shop-locator.png';
 import Subscriptions from '../assets/img/buy-comics-subscriptions.png';
 import PowerVisa from '../assets/img/buy-dc-power-visa.svg';
+import Icon from './Icon';
 
 export default function AppIcons() {
 
@@ -11,34 +12,19 @@ export default function AppIcons() {
             <div className="container">
                 <div className="blue-section">
                     <a href="">
-                        <div className="icon">
-                            <img id='digital' src={DigitalLogo} alt="digital-comics" />
-                            <span>digital comics</span>
-                        </div>
+                        <Icon image={DigitalLogo} name={'digital comics'} />
                     </a>
                     <a href="">
-                        <div className="icon">
-                            <img src={ComicsMerch} alt="merchandise" />
-                            <span>dc merchandise</span>
-                        </div>
+                        <Icon image={ComicsMerch} name={'DC merchandise'} />
                     </a>
                     <a href="">
-                        <div className="icon">
-                            <img src={Subscriptions} alt="merchandise" />
-                            <span>subscriptions</span>
-                        </div>
+                        <Icon image={ShopLocator} name={'subscriptions'} />
                     </a>
                     <a href="">
-                        <div className="icon">
-                            <img id='shopLocator' src={ShopLocator} alt="merchandise" />
-                            <span>comic shop locator</span>
-                        </div>
+                        <Icon image={Subscriptions} name={'comic shop locator'} />
                     </a>
                     <a href="">
-                        <div className="icon">
-                            <img src={PowerVisa} alt="merchandise" />
-                            <span>dc power visa</span>
-                        </div>
+                        <Icon image={PowerVisa} name={'dc power visa'} />
                     </a>
                 </div>
             </div>
