@@ -89,8 +89,9 @@ main {
     height: 210px;
     overflow: hidden;
 
-    p {
+    a {
       text-transform: uppercase;
+      color: white;
     }
 
     .card-header {
