@@ -52,7 +52,7 @@ export default function AppFooter() {
                         </div>
                         <div className="social">
                             <h3>FOLLOW US</h3>
-                            {socials.map(social => <a href={social.link}><img src={social.text} alt={social.alt} /></a>)}
+                            {socials.map(social => <a href={social.link} key={social.id}><img src={social.text} alt={social.alt} /></a>)}
                         </div>
                     </div>
                 </div>

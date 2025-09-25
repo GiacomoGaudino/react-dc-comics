@@ -11,7 +11,7 @@ export default function AppMain() {
                 <div className="container">
                     <h2>CURRENT SERIES</h2>
                     <div className="black-section">
-                        {comics.map(comic => <Card image={comic.thumb} name={comic.series} />)}
+                        {comics.map(comic => <Card image={comic.thumb} name={comic.series} key={comic.id} />)}
                     </div>
                 </div>
             </div>
