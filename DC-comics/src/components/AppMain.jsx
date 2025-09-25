@@ -26,7 +26,6 @@ export default function AppMain() {
                 </div>
             </div>
             <AppIcons />
-            <AppJumbotron />
         </main>
     )
 }

@@ -131,6 +131,13 @@ main {
     width: 27px;
   }
 
+}
+
+footer {
+  background-color: #303030;
+  height: 100px;
+  position: relative;
+  z-index: 1;
 
   .jumbotron {
     background-image: url(./assets/img/footer-bg.jpg);
@@ -180,13 +187,11 @@ main {
     }
   }
 
-}
-
-footer {
-  background-color: #303030;
-  height: 100px;
-  position: relative;
-  z-index: 1;
+  .footer_end {
+    background-color: #303030;
+    position: relative;
+    z-index: 200;
+  }
 
   h3 {
     color: #0282f9;
@@ -204,6 +209,10 @@ footer {
     display: flex;
     align-items: center;
     gap: 16px;
+  }
+
+  a {
+    height: 30px;
   }
 
   img {
