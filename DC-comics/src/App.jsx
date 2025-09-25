@@ -1,4 +1,3 @@
-
 import './App.css'
 import '@fontsource-variable/open-sans';
 import AppHeader from './components/AppHeader';

@@ -1,6 +1,6 @@
 import AppIcons from "./AppIcons";
 import Card from "./Card";
-import comics from '../assets/comics';
+import comics from '../data/Comics';
 
 export default function AppMain() {
 
