@@ -7,37 +7,37 @@ const menu = [
         list: [
             {
                 id: 1,
-                text: 'character',
+                text: 'Character',
                 link: '#'
             },
             {
                 id: 2,
-                text: 'comics',
+                text: 'Comics',
                 link: '#'
             },
             {
                 id: 3,
-                text: 'movies',
+                text: 'Movies',
                 link: '#'
             },
             {
                 id: 4,
-                text: 'tv',
+                text: 'Tv',
                 link: '#'
             },
             {
                 id: 5,
-                text: 'games',
+                text: 'Games',
                 link: '#'
             },
             {
                 id: 6,
-                text: 'videos',
+                text: 'Videos',
                 link: '#'
             },
             {
                 id: 7,
-                text: 'news',
+                text: 'News',
                 link: '#'
             }
         ]
@@ -48,12 +48,12 @@ const menu = [
         list: [
             {
                 id: 1,
-                text: 'shop dc',
+                text: 'Shop DC',
                 link: '#'
             },
             {
                 id: 2,
-                text: 'shop dc collectibles',
+                text: 'Shop DC Collectibles',
                 link: '#'
             }
         ]
@@ -64,57 +64,57 @@ const menu = [
         list: [
             {
                 id: 1,
-                text: 'term of use',
+                text: 'Term Of Use',
                 link: '#'
             },
             {
                 id: 2,
-                text: 'privacy police',
+                text: 'Privacy Police',
                 link: '#'
             },
             {
                 id: 3,
-                text: 'ad choices',
+                text: 'Ad Choices',
                 link: '#'
             },
             {
                 id: 4,
-                text: 'advertising',
+                text: 'Advertising',
                 link: '#'
             },
             {
                 id: 5,
-                text: 'jobs',
+                text: 'Jobs',
                 link: '#'
             },
             {
                 id: 6,
-                text: 'subscriptions',
+                text: 'Subscriptions',
                 link: '#'
             },
             {
                 id: 7,
-                text: 'talent workshops',
+                text: 'Talent Workshops',
                 link: '#'
             },
             {
                 id: 8,
-                text: 'cpsc certificates',
+                text: 'CPSC Certificates',
                 link: '#'
             },
             {
                 id: 9,
-                text: 'ratings',
+                text: 'Ratings',
                 link: '#'
             },
             {
                 id: 10,
-                text: 'shop help',
+                text: 'Shop Help',
                 link: '#'
             },
             {
                 id: 11,
-                text: 'contact us',
+                text: 'Contact Us',
                 link: '#'
             }
         ]
@@ -125,27 +125,27 @@ const menu = [
         list: [
             {
                 id: 1,
-                text: 'dc',
+                text: 'DC',
                 link: '#'
             },
             {
                 id: 2,
-                text: 'mad magazine',
+                text: 'Mad Magazine',
                 link: '#'
             },
             {
                 id: 3,
-                text: 'dc kids',
+                text: 'DC Kids',
                 link: '#'
             },
             {
                 id: 4,
-                text: 'dc universe',
+                text: 'DC Universe',
                 link: '#'
             },
             {
                 id: 5,
-                text: 'dc power visa',
+                text: 'DC Power Visa',
                 link: '#'
             }
         ]
