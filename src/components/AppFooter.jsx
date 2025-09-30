@@ -3,6 +3,8 @@ import socials from '../data/Socials';
 
 export default function AppFooter() {
 
+
+
     return (
         <footer>
             <AppJumbotron />

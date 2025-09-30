@@ -1,3 +1,10 @@
+import facebookLogo from '../assets/img/footer-facebook.png'
+import periscopeLogo from '../assets/img/footer-periscope.png'
+import pinterestLogo from '../assets/img/footer-pinterest.png'
+import twitterLogo from '../assets/img/footer-twitter.png'
+import youtubeLogo from '../assets/img/footer-youtube.png'
+
+
 const socials = [
     {
         id: 1,
